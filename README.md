@@ -2,7 +2,7 @@
  Simple python project
 
 Press exit to get out of the loop
-
+```
 
 camel = r"""
 Switching on the camera in the camel habitat...
@@ -158,3 +158,4 @@ while True:
     elif habitat == "exit":
         end()
         break
+```
